@@ -56,7 +56,7 @@
 <tr>
 <td width="50%">
 
-### 🧪 [Selenium Test Automation Portfolio](https://github.com/sofcal1/selenium-portfolio)
+### 🧪 [Selenium Test Automation Portfolio](https://github.com/sofcal1/herokuapp-automation)
 Web UI test framework built with **Selenium WebDriver + TestNG** — implementing **Page Object Model**, **data-driven testing**, modular design, and context-based architecture.
 
 `Java` `Selenium` `TestNG` `POM` `Data-Driven`
@@ -103,8 +103,8 @@ Exploring AI agents, LLMs, and RAG (Retrieval-Augmented Generation) architecture
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-calarion/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiarose.calarion@gmail.com)
 
 </div>
 
